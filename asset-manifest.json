@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.c2ec0687.css",
-    "main.js": "/static/js/main.cdce9bd4.js",
+    "main.css": "/static/css/main.b94dded2.css",
+    "main.js": "/static/js/main.3d3416af.js",
     "static/js/787.7b806c94.chunk.js": "/static/js/787.7b806c94.chunk.js",
     "static/media/office_illus_comp.png": "/static/media/office_illus_comp.358ac8c36f724c95974f.png",
     "static/media/location.png": "/static/media/location.24724d89dcfbdd31f437.png",
@@ -26,12 +26,12 @@
     "static/media/cross.svg": "/static/media/cross.0c1f745f8d7afd90cfdcac0196928b76.svg",
     "static/media/Check.svg": "/static/media/Check.ae018c21d3843d42bbdb8e350f0e55e6.svg",
     "static/media/EnvelopeSimple.svg": "/static/media/EnvelopeSimple.baaa35a30a9fb9c5298ca3d046894364.svg",
-    "main.c2ec0687.css.map": "/static/css/main.c2ec0687.css.map",
-    "main.cdce9bd4.js.map": "/static/js/main.cdce9bd4.js.map",
+    "main.b94dded2.css.map": "/static/css/main.b94dded2.css.map",
+    "main.3d3416af.js.map": "/static/js/main.3d3416af.js.map",
     "787.7b806c94.chunk.js.map": "/static/js/787.7b806c94.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c2ec0687.css",
-    "static/js/main.cdce9bd4.js"
+    "static/css/main.b94dded2.css",
+    "static/js/main.3d3416af.js"
   ]
 }
